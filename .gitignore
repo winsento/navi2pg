@@ -18,3 +18,7 @@ build*
 # generated directories
 lib
 bin
+
+# project files
+.project
+
